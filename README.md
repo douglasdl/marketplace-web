@@ -48,3 +48,14 @@ marketplace-web
 ```sh
 pnpm create vite
 ```
+
+Install the dependencies:
+```sh
+pnpm i
+pnpm i tailwindcss @tailwindcss/vite
+```
+
+Start the project:
+```sh
+pnpm run dev
+```
