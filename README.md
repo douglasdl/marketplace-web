@@ -53,6 +53,8 @@ Install the dependencies:
 ```sh
 pnpm i
 pnpm i tailwindcss @tailwindcss/vite
+pnpm i hugeicons-react
+pnpm i @biomejs/biome -D
 ```
 
 Start the project:
